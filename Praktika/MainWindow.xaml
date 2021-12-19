@@ -315,7 +315,7 @@
                                        Text="Lorem ipsum dolor sit amet consectetur adipiscing elit sed tempor incdidunt ut laboret dolor magna ut consequat siad esqudiat dolor"
                                        FontSize="15px" 
                                        Foreground="#a6a7aa"
-                                       FontWeight="Regular" Width="339" Height="350" RenderTransformOrigin="0.571,0.507" 
+                                       FontWeight="Regular" Width="335" Height="350" RenderTransformOrigin="0.571,0.507" 
                                        >
                         </TextBlock>
                     </StackPanel>
@@ -370,7 +370,7 @@
                     <StackPanel                                 
                                 >
                         <Button Style="{StaticResource MyButtonStyle}" 
-                                Margin="123,0,0,150"
+                                Margin="120,0,0,150"
                                 BorderBrush="Transparent"
                                 Background="Transparent">
                             <TextBlock Text="READ MORE"
